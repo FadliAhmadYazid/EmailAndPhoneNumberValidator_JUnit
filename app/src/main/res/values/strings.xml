@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidUnitTest</string>
+    <string name="masukkan_email">Masukkan email</string>
+    <string name="validasi">Validasi</string>
+</resources>
